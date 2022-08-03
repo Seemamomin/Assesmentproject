@@ -27,12 +27,11 @@ body{
 }
 
 .form_input{
-    width: 300px;
+    width: 40%;
     margin-left: 20%;
 }
 
 .footer{
     text-align: center;
-    background-color: black;
 }
 

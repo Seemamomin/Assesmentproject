@@ -19,7 +19,7 @@ const Home = () => {
         </li>
         <li>
           {/* Endpoint to route to Contact Us component */}
-          <Link to="/ContactUs">Employee Registration</Link>
+          <Link to="/contactus">Employee Registration</Link>
         </li>
       </ul>
     </div>

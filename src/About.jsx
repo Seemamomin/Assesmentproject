@@ -85,9 +85,9 @@ function About() {
 
   return (
     <div className="app">
+        <h1>Admin Login</h1>
       <div className="login-form">
-        <div className="title">Sign In</div>
-        {isSubmitted ? <Link to="/panel"> </Link>: renderForm}
+        {isSubmitted ? <div>Admin is successfully logged in</div>: renderForm}
         
      </div>
     </div>

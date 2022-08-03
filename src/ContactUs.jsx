@@ -9,7 +9,7 @@
 export default ContactUs;*/
 
 import React, {useState,setState} from 'react';
-import './RegistrationForm.css'
+import './ContactUs.css'
 import { Link } from "react-router-dom";
 
 function ContactUs() {
