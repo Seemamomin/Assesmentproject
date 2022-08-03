@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+a {
+    text-decoration: none !important;
+  }
+.Heading h1{
+    text-align: center;
+    color: blue;
+    margin-top: 50px;
+}
+.Heading ul li{
+    display: inline-block;
+    margin-left: 200px;
+    font-size: 25px;
+    font-weight: bold;
+    color: blueviolet;
+    margin-top: 150px;
+}
